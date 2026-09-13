@@ -35,7 +35,10 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Protocols means a set of Rules between computers to communicate and exchange data over a network
+there are different kind of protocols are there they are : HTTP,TCP,IP,FTP,SMTP.
+when you send an information from one computer to another, the server should follow certain rules to send, receive, deliver the data correctly
+
 
 ---
 
@@ -60,7 +63,14 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+when users from globally want to access website, there are 4 concepts are included in it they are:
+1. Packet Switching: packet switching is used break the user's request and website data into small packets, these packets travel through network paths and reassembled at the destination.
+2. IP Address: every device(phone,laptop,etc..) or server has am IP Address, it has an unique Address, which is used to help the packets to reach the correct destination.
+3. TCP/IP: Both TCP/IP provides the main communication rules in networking, where IP handles the addressing and routing and TCP ensures that whether the packets are delivered in an correct order or not.
+4. HTTP/HTTPS: It is used to request the server to receive the web pages.
+HTTPS is mostly preffered because it will provide secure connection for the user"s data,it will provide high security 
+
+
 
 ---
 
