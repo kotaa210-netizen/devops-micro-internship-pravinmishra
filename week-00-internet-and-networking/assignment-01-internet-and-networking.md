@@ -155,7 +155,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS is Domain Name system, it is like a phonebook of the internet, it converts domain name like epicreads.com into an IP address, where DNS servers store and find these domain-to-IP mappings and provide the correct IP address when a user requests a website.
+2. For EpicReads, we use an A record because it connects the domain name to an IPv4 address. So, epicreads.com points to 52.172.142.222.
 
 ---
 
@@ -191,7 +192,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](<img width="1440" height="900" alt="Screenshot 2026-09-13 at 21 29 29" src="https://github.com/user-attachments/assets/16b4c2c7-b4b6-4fd9-8a9b-011c5b957c6c" />
+)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
