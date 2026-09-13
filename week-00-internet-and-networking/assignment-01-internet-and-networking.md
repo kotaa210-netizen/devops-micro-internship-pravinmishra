@@ -102,7 +102,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](<img width="1536" height="1024" alt="ChatGPT Image Sep 13, 2026 at 09_08_19 PM" src="https://github.com/user-attachments/assets/5f64b405-adb9-492d-8e43-15dff3959eb1" />
+)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -113,18 +114,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* node.js
+* FastAPI
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgerseSQL
 
 ---
 
