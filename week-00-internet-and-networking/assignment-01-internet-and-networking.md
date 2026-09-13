@@ -28,6 +28,7 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![Task 1 Screenshot](<img width="662" height="141" alt="Screenshot 2026-09-13 at 11 50 15" src="https://github.com/user-attachments/assets/e6030666-8d46-41fc-b5c0-8c6dbe175240" />
 
 )
+
 ![Task 1 Screenshot 2](<img width="1440" height="900" alt="Screenshot 2026-09-13 at 11 51 30" src="https://github.com/user-attachments/assets/1d44c390-3c7f-451a-9013-024084098cc7" />)
 
 
