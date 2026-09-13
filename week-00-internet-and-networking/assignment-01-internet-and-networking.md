@@ -233,7 +233,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/varun-kumar-221a6b403_from-knowing-how-to-use-applications-activity-7504942956643196928-6Pc5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGc02XkBnQahz2VLCDcQNfkx30-Ih7vOlOo
 ```
 
 ---
@@ -241,8 +241,62 @@ Add your URL here...
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
+🚀 **From knowing how to use applications to understanding what happens behind them.**
 
-Add your post content here...
+When I started exploring DevOps, I realized there was a lot happening behind the scenes whenever I opened a website, typed a domain name, or ran an application.
+
+Through the **DevOps Micro Internship (DMI) — Cohort 3**, I’ve started connecting those pieces and understanding how the internet, applications, servers, DNS, and development tools actually work together.
+
+Here’s what I learned through Tasks 1–5:
+
+### 🤖 ChatGPT
+
+I explored how **ChatGPT and Agentic AI** can help developers understand concepts, troubleshoot problems, generate ideas, and improve their learning workflow — while still requiring human understanding and verification.
+
+### 🌐 Internet & Networking
+
+I learned the basics of how devices communicate over the internet, including **IP addresses, ports, clients, servers, and protocols**.
+
+I also understood how a request travels from a user's device to a server and back.
+
+### 🏗️ App Architecture
+
+I learned how a web application is structured using components such as:
+
+**Frontend → Backend → Database**
+
+I also understood the role of servers, APIs, and how these different layers communicate with each other.
+
+### 🔎 DNS
+
+One of the concepts that really stood out to me was **DNS (Domain Name System)**.
+
+Instead of remembering an IP address like:
+
+`52.172.142.222:3000`
+
+DNS allows users to access an application using a domain such as:
+
+`epicreads.com`
+
+It was interesting to understand how a simple domain name eventually leads the browser to the correct server.
+
+### 💻 VS Code Setup
+
+I also set up my development environment using **VS Code**, including working with folders, terminals, extensions, Git, and project files.
+
+This gave me a better understanding of how developers organize and work on projects efficiently.
+
+### 🎯 What I’m Taking Away
+
+These tasks have helped me look at applications differently. Instead of just seeing a website or an app, I’m beginning to understand **what happens behind the scenes and how all the pieces connect.**
+
+This is just the beginning of my DevOps journey.
+
+**Still learning. Still building. Still curious. 🚀**
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** [**https://dmi.pravinmishra.com/s/**](https://dmi.pravinmishra.com/s/https://github.com/varunbadri2028-creator.html)[https://github.com/varunbadri2028-creator](https://dmi.pravinmishra.com/s/https://github.com/varunbadri2028-creator.html)[**.html**](https://dmi.pravinmishra.com/s/https://github.com/varunbadri2028-creator.html) **· Start your DevOps journey:** [**https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**](https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3)
+
 
 ---
 
@@ -250,19 +304,20 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found understanding the basic concepts of ChatGPT, internet networking, IP addresses, ports, protocols, DNS, and VS Code relatively easy. I was already familiar with development tools and basic programming, so connecting these concepts with what I already knew was easier.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how all the components work together behind a real application was a little difficult at first. In particular, DNS, networking protocols, and the flow of a request from the browser to the server required more attention and practical understanding
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to focus more on practical DevOps concepts instead of only understanding the theory. I want to improve my knowledge of Linux, Git, servers, deployment, and automation and apply what I learn to real projects.
 
 ---
 
