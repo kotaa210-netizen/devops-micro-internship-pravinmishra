@@ -280,8 +280,7 @@ Looking forward to learning more and building my skills step by step! 🚀
 I found it easy to understand the basic concepts of the Internet, networking, and commonly used tools. I was also able to follow the instructions and complete the basic tasks step by step. Creating and using GitHub and learning about basic DevOps concepts became easier with practice.
 
 ### What was difficult?
-
-Ad.
+Understanding GitHub and learning how to create repositories, upload files, and create a pull request was difficult at first. I also faced some difficulties with downloading and setting up the required tools. With practice and step-by-step guidance, I was able to understand the process better
 
 ---
 
