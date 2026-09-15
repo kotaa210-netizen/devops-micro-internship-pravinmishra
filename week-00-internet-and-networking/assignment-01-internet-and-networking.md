@@ -235,6 +235,19 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
+https://www.linkedin.com/in/archana-kota-0a7a41434/
+```
+
+---
+
+## LinkedIn Post Backup Copy
+
+Paste the full text of your LinkedIn post here:
+
+LinkedIn Post Backup Copy
+
+Paste the full text of your LinkedIn post here:
+
 Week 00 | DevOps Micro Internship (DMI) — Cohort 3
 I’m excited to share my learning from Week 00 of the DevOps Micro Internship with Agentic AI.
 💬 ChatGPT
@@ -256,27 +269,6 @@ I also explored technologies commonly used at each layer, such as HTML/CSS/JavaS
  I set up my Visual Studio Code environment, opened the integrated terminal, and practiced basic commands while getting familiar with the development environment.
 This week helped me build a stronger foundation in Internet, Networking, Application Architecture, DNS, and developer tools — important concepts for starting my DevOps journey. 🚀
 A big thank you to @Pravin Mishra(https://lnkd.in/dwBAfy4x) and @Anjana Muthunayake(https://lnkd.in/drKTZZkd) for guiding learners through this amazing DevOps journey.
-
-```
-
----
-
-## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
-LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
-I’m excited to share that I have completed my first assignment on Basic Understanding of Internet, Networking & Tools.
-
-Through this assignment, I learned about the basics of the Internet, networking concepts, and commonly used tools. This helped me improve my understanding of how communication and technology work together.
-
-Looking forward to learning more and building my skills step by step! 🚀
-
-#Learning #Networking #Internet #DevOps #SkillsDevelopment
-
 ---
 
 # Reflection – Week 0
