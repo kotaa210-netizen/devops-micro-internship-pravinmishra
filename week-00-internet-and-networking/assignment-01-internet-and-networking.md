@@ -235,7 +235,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-https://www.linkedin.com/in/archana-kota-0a7a41434/
+https://lnkd.in/p/dPgsAzU3
 ```
 
 ---
