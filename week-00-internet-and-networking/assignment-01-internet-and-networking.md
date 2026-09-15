@@ -101,7 +101,8 @@ Save your diagram image in the `screenshots` folder and update the file name bel
 
 
 
-![Application Architecture Diagram](screenshort/![Uploading Screenshot 2026-09-15 120327.png…]()
+
+![Application Architecture Diagram](screenshort/<img width="955" height="595" alt="Screenshot 2026-09-15 120327" src="https://github.com/user-attachments/assets/a9fa2016-a5de-490f-b967-9be4dd53110d" />
 
 
 
