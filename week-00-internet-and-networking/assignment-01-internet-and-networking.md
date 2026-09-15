@@ -234,6 +234,7 @@ Add the following credit note at the end of your post:
 ## LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
+
 Week 00 | DevOps Micro Internship (DMI) — Cohort 3
 I’m excited to share my learning from Week 00 of the DevOps Micro Internship with Agentic AI.
 💬 ChatGPT
