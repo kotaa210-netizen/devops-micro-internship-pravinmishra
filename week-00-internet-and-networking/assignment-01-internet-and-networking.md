@@ -277,10 +277,7 @@ Looking forward to learning more and building my skills step by step! 🚀
 # Reflection – Week 0
 
 ### What did you find easy?
-
-Add your answer here...
-
----
+I found it easy to understand the basic concepts of the Internet, networking, and commonly used tools. I was also able to follow the instructions and complete the basic tasks step by step. Creating and using GitHub and learning about basic DevOps concepts became easier with practice.
 
 ### What was difficult?
 
