@@ -151,7 +151,11 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet’s phonebook. It translates human-friendly domain names, such as example.com, into IP addresses that computers use to locate websites and services. To connect a domain directly to the given IPv4 IP address, an A (Address) record should be used. The A record maps a domain or subdomain to an IPv4 address, allowing users who enter the domain name to be directed to the correct server.
+
+
+
+
 
 ---
 
